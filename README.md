@@ -8,4 +8,10 @@ Simple authentication project using Node,express, MongoDB Atlas,Passport
 
     PORT = "port in which you wish to run your app"
     mongoDb = "your-mongodb-connection-path"
+    
+ ## Run the app
+You can run your app using
 
+    node app.js
+   or
+    `npm run dev`
