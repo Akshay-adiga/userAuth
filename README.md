@@ -13,7 +13,5 @@ Simple authentication project using Node,express, MongoDB Atlas,Passport
 You can run your app using
 
     node app.js
-   
    or
-   
-    `npm run dev`
+   `npm run dev`
